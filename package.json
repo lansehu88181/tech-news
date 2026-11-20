@@ -1,0 +1,1 @@
+{"description":"科技新闻聚合站：聚合 IT之家、爱范儿、雷峰网、极客公园、少数派等公开 RSS，报纸风格展示。","engines":{"node":">=20"},"main":"server.js","name":"tech-news","private":true,"scripts":{"start":"node server.js"},"type":"commonjs","version":"1.0.0"}
